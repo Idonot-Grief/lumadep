@@ -1,0 +1,17 @@
+{
+  "applied": [
+    "v2-aero-multimc-ui",
+    "v2-fix-update-popup-settings-upt",
+    "v2-fix-update-popup-settings",
+    "v2-fix-java-dir-import",
+    "v2-fix-missing-dir-constants",
+    "v2-fix-natives-launch-args",
+    "v2-fix-gamelog-javaexe-quit",
+    "v2-fix-gamelog-freeze-rename",
+    "v2-fix-gamelog-freeze-rename-r2",
+    "v2-fix-msauth-redirect-uri",
+    "v2-fix-restart-subprocess",
+    "v2-multimc-edit-dialog-msa-fix"
+  ],
+  "timestamp": "2026-04-23T20:10:52.029837"
+}

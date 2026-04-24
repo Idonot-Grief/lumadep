@@ -1,0 +1,41 @@
+{
+  "version": "2.0.0",
+  "auth": {
+    "username": "Player",
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "offline_mode": true,
+    "default_offline_name": "Player",
+    "use_microsoft_account": false,
+    "access_token": ""
+  },
+  "java": {
+    "java_path": "",
+    "min_ram": 2048,
+    "max_ram": 4096,
+    "extra_jvm_args": "-XX:+UseG1GC -XX:MaxGCPauseMillis=200",
+    "use_system_java": true
+  },
+  "theme": {
+    "name": "Dark",
+    "primary_color": "#2196F3",
+    "accent_color": "#FF5722",
+    "text_color": "#FFFFFF",
+    "background_color": "#212121",
+    "custom_icon": ""
+  },
+  "show_console": true,
+  "keep_launcher_open": false,
+  "window_geometry": {
+    "x": 100,
+    "y": 100,
+    "width": 1000,
+    "height": 660
+  },
+  "api_type": "mojang",
+  "custom_api_url": "https://piston-meta.mojang.com",
+  "auto_check_updates": true,
+  "update_server": "https://68.193.176.104:4355",
+  "logging_level": "INFO",
+  "cache_libraries": true,
+  "use_system_java_only": false
+}
