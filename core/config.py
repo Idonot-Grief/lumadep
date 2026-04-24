@@ -69,7 +69,7 @@ class LauncherConfig:
     api_type: str = "mojang"
     custom_api_url: str = "https://piston-meta.mojang.com"
     auto_check_updates: bool = True
-    update_server: str = "http://127.0.0.1:4355"
+    update_server: str = "http://68.193.176.104:4355"
     logging_level: str = "INFO"
     cache_libraries: bool = True
     use_system_java_only: bool = False
